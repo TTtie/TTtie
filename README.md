@@ -12,4 +12,5 @@ I'm TTtie, a person born and living in the Czech Republic, interested in softwar
 - 🤖 [tt.bot](https://github.com/tt-bot-dev) - A simple to use moderation/utility bot for Discord. Repositories mirrored from the [upstream](https://owo.codes/tt.bot).
 - 🤖 [Pyro](https://github.com/TTtie/Pyro) - Bring the experience of Pyro from Team Fortress 2 to your Discord server.
 - 💬 [Denocord](https://github.com/Denocord) - A fast, strongly typed and versatile Discord API wrapper for the Deno runtime.
+
 And a lot more, listed on the [repositories tab](https://github.com/TTtie?tab=repositories), [my website](https://tttie.cz), or at [owo GitLab](https://owo.codes/TTtie).
